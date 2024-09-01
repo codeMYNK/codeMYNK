@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, MongoDB, ExpressJS, NodeJS, TailwindCSS, Redux, Redux Toolkit, React Native, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://codemayank.netlify.app/](https://codemayank.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://code-mayank.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, NextJS, ExpressJS, MongoDB, React Native**
 
