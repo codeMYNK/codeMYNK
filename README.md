@@ -36,7 +36,16 @@
 </a> -->
 <a href="https://www.instagram.com/mayankworld__/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+
+<a href="https://code-mayank.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+
+  
+<a href="https://leetcode.com/u/mynk8076/" target="_blank">
+<img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 ## My Skill Set  
