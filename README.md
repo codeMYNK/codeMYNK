@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate Javascript Full-Stack developer from India</h3>
+<h3 align="center">A passionate Javascript/Typescript Full-Stack Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemynk&label=Profile%20views&color=0e75b6&style=flat" alt="codemynk" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemynk" alt="codemynk" /></a> </p> -->
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, MongoDB, ExpressJS, NodeJS, TailwindCSS, Redux, Redux Toolkit, React Native, NextJS**
+- 🌱 I’m currently working with **HTML, CSS, Javascript, Typescript, React, NextJS, React Native, TailwindCSS, Redux, Redux Toolkit, Tanstack Query(React Query), MongoDB, MySQL, PostgreSQL, NodeJS, ExpressJS, NestJS, MicroService Architecture, Event-Driven, Kafka, RabbitMQ**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://code-mayank.vercel.app/)
 
-- 💬 Ask me about **Javascript, React, NextJS, ExpressJS, MongoDB, React Native**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, NextJS, React Native, TailwindCSS, Redux, Redux Toolkit, Tanstack Query(React Query), MongoDB, MySQL, PostgreSQL, ExpressJS, NodeJS, NestJS, MicroService Architecture, Event-Driven, Kafka, RabbitMQ**
 
 - 📫 How to reach me **mynk8076@gmail.com**
 
